@@ -1,0 +1,12 @@
+F:\新建文件夹\应用1.Core\bin\x86\Debug\net7.0\应用1.Core.deps.json
+F:\新建文件夹\应用1.Core\bin\x86\Debug\net7.0\应用1.Core.dll
+F:\新建文件夹\应用1.Core\bin\x86\Debug\net7.0\应用1.Core.pdb
+F:\新建文件夹\应用1.Core\obj\x86\Debug\net7.0\应用1.Core.csproj.AssemblyReference.cache
+F:\新建文件夹\应用1.Core\obj\x86\Debug\net7.0\应用1.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\新建文件夹\应用1.Core\obj\x86\Debug\net7.0\应用1.Core.AssemblyInfoInputs.cache
+F:\新建文件夹\应用1.Core\obj\x86\Debug\net7.0\应用1.Core.AssemblyInfo.cs
+F:\新建文件夹\应用1.Core\obj\x86\Debug\net7.0\应用1.Core.csproj.CoreCompileInputs.cache
+F:\新建文件夹\应用1.Core\obj\x86\Debug\net7.0\应用1.Core.dll
+F:\新建文件夹\应用1.Core\obj\x86\Debug\net7.0\refint\应用1.Core.dll
+F:\新建文件夹\应用1.Core\obj\x86\Debug\net7.0\应用1.Core.pdb
+F:\新建文件夹\应用1.Core\obj\x86\Debug\net7.0\ref\应用1.Core.dll
